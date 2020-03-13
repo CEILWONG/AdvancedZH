@@ -1,0 +1,50 @@
+#主机名
+
+hostname
+hostnamectl set-hostname WZHWZH
+su -
+
+
+#关机
+power off
+init 0
+shutdown -h now
+shutdown -h 15
+halt
+
+#重启
+reboot
+shutdown -r now
+shutdown -r +15  #15分钟后重启
+
+
+#查看当前系统时间
+date
+
+#查看日历
+cal
+
+cal 2018
+
+==================================
+
+ctrl+L  清屏 == clear
+换行    \
+
+ctrl + a  光标到行首
+ctrl + e  光标到行位
+
+ctrl + u  清空光标前面东西
+ctrl + k  清空光标后面东西
+
+
+history
+
+history -c 清除历史命令
+
+
+================================
+
+放大缩小字体    
+
+CTRL+SHIFT+”+”或者”-“
