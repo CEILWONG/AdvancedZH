@@ -1,4 +1,4 @@
-
+#此代码写的有问题，待改进；
 
 def binarysearch(alist,item):
 
