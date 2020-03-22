@@ -37,9 +37,27 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/venv/递归问题-下/找零问题动态规划解法.py">
           <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/venv/查找和排序/01二分查找.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="378">
+              <caret line="21" column="52" selection-start-line="21" selection-start-column="52" selection-end-line="21" selection-end-column="52" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/venv/查找和排序/02二分查找递归算法.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="337">
+              <caret line="21" column="42" selection-start-line="21" selection-start-column="42" selection-end-line="21" selection-end-column="42" />
+            </state>
+          </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
@@ -89,12 +107,14 @@
         <option value="$PROJECT_DIR$/venv/递归问题-下/优化问题和贪心算法.py" />
         <option value="$PROJECT_DIR$/venv/递归问题-下/找零兑换问题-递归.py" />
         <option value="$PROJECT_DIR$/venv/递归问题-下/找零问题动态规划解法.py" />
+        <option value="$PROJECT_DIR$/venv/查找和排序/01二分查找.py" />
+        <option value="$PROJECT_DIR$/venv/查找和排序/02二分查找递归算法.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="1156" />
-    <option name="y" value="342" />
+    <option name="x" value="1204" />
+    <option name="y" value="350" />
     <option name="width" value="1356" />
     <option name="height" value="745" />
   </component>
@@ -123,7 +143,7 @@
               <item name="DataStructure" type="b2602c69:ProjectViewProjectNode" />
               <item name="DataStructure" type="462c0819:PsiDirectoryNode" />
               <item name="venv" type="462c0819:PsiDirectoryNode" />
-              <item name="递归问题-下" type="462c0819:PsiDirectoryNode" />
+              <item name="查找和排序" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -148,7 +168,7 @@
     </option>
   </component>
   <component name="RunManager">
-    <configuration name="找零兑换问题-递归" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+    <configuration name="02二分查找递归算法" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="DataStructure" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -156,11 +176,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="$PROJECT_DIR$/venv/bin/python" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/venv/递归问题-下" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/venv/查找和排序" />
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/递归问题-下/找零兑换问题-递归.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/查找和排序/02二分查找递归算法.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -184,8 +204,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1156" y="342" width="1356" height="745" extended-state="0" />
-    <editor active="true" />
+    <frame x="1201" y="349" width="1356" height="745" extended-state="0" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2494382" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -342,6 +361,20 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/venv/递归问题-下/找零问题动态规划解法.py">
       <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/查找和排序/01二分查找.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="21" column="52" selection-start-line="21" selection-start-column="52" selection-end-line="21" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/查找和排序/02二分查找递归算法.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="337">
+          <caret line="21" column="42" selection-start-line="21" selection-start-column="42" selection-end-line="21" selection-end-column="42" />
+        </state>
+      </provider>
     </entry>
   </component>
 </project>
