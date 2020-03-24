@@ -7,7 +7,6 @@ def select(alist):
         for j in range(i+1):
             if alist[j]>=alist[maxpos]:
                 maxpos=j
-
         temp=alist[maxpos]
         alist[maxpos]=alist[i]
         alist[i]=temp
