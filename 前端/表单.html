@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<title>web开发之html简明开发教程</title>
+</head>
+<body>
+	<form action="#" method="get">
+		<h1>radio与checkbox</h1>
+		账户：<input type="text" name="account"><br><br>
+		密码：<input type="password" "password"><br><br>
+
+		性别：<input type="radio" name="gender">男
+		<input type="radio" name="gender">女 <br>
+
+		<input type="radio" name="bloodA">A
+		<input type="radio" name="bloodB">B
+		<input type="radio" name="bloodC">C
+
+		<br>
+		<input type="submit" value="submit"><br><hr>
+
+
+		<h1>输入框的扩展</h1>
+
+		<input type="text" name="something" maxlength="10"><br>
+		<input type="text" name="something" value="hahahah" readonly="">只读的文本框 <br>
+		<input type="text" name="something" value="hahahah" disabled> <br>
+		<input type="text" name="something" placeholder="请输入密码"> <br>
+
+		<h1>下拉选框</h1>
+
+		<select size="2">
+			<option value="90">1990</option>
+			<option value="91">1991</option>
+			<option value="92">1992</option>
+			<option value="93">1993</option>
+			<option selected value="94">1994</option>
+			<option value="95">1995</option>
+		</select> <br>
+	</form>
+
+	<h1>多行输入框</h1>
+	<textarea clos="30" rows="8">您好</textarea>
+
+	<h1>按钮</h1>
+	<input type="button" value="我是按钮"> <br>
+	<input type="reset" name="重置">
+
+	<h1>隐藏域</h1>
+	<input type="hidden" name="hide">
+
+	<h1>文字和表象的关联</h1>
+	<form action="#">
+		<input type="radio" id="012" name="nan"><label for="012">男</label>
+		<input type="radio" id="013" name="nan"><label for="013">女</label>
+
+	</form>
+	
+
+	<h1>格式化文本</h1>
+
+	<pre>
+		
+		保留空格和换行
+	</pre>
+
+</body>
+</html>
