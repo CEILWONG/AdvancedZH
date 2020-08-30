@@ -1,8 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="48ecc018-7ea7-4110-b68a-d58edc5fcda6" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/栈和队列/test.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PP2020H2/Queuewzh.py" beforeDir="false" afterPath="$PROJECT_DIR$/栈和队列/Queue.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PP2020H2/stack.py" beforeDir="false" afterPath="$PROJECT_DIR$/栈和队列/stack.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PP2020H2/test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PP2020H2/wzh-demo.py" beforeDir="false" afterPath="$PROJECT_DIR$/栈和队列/wzh-demo.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PP2020H2/括号匹配算法.py" beforeDir="false" afterPath="$PROJECT_DIR$/栈和队列/括号匹配算法.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,8 +56,8 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
-  <component name="RunManager" selected="Python.括号匹配算法">
-    <configuration name="括号匹配算法" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.力扣1512好数对的数目">
+    <configuration name="插入排序" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="DataStructure" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -41,11 +65,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PP2020H2" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/排序算法" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PP2020H2/括号匹配算法.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/排序算法/插入排序.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -75,7 +99,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Queuewzh (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="力扣1512好数对的数目" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="DataStructure" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -83,11 +107,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PP2020H2" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/哈希表" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PP2020H2/Queuewzh.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/哈希表/力扣1512好数对的数目.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -96,7 +120,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Queuewzh" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="哈希结构实现" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="DataStructure" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -104,11 +128,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PP2020H2" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/哈希表" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="D:\01-PC-Repositories\AdvancedZH\DataStructure\PP2020H2\Queuewzh.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/哈希表/哈希结构实现.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -117,7 +141,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Queuewzh" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="归并排序" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="DataStructure" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -125,11 +149,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PP2020H2" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/排序算法" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="D:\01-PC-Repositories\AdvancedZH\DataStructure\PP2020H2\Queuewzh.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/排序算法/归并排序.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -138,7 +162,70 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="stack" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="快速排序" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="DataStructure" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/排序算法" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/排序算法/快速排序.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="链表实现" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="DataStructure" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/链表" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/链表/链表实现.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="冒泡排序" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="DataStructure" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/排序算法" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/排序算法/冒泡排序.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="中缀转后缀" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="DataStructure" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -150,7 +237,49 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PP2020H2/stack.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PP2020H2/中缀转后缀.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="热土豆问题" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="DataStructure" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PP2020H2" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PP2020H2/热土豆问题.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="DataStructure" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/栈和队列" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/栈和队列/test.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -182,11 +311,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.括号匹配算法" />
-        <item itemvalue="Python.Queuewzh (1)" />
-        <item itemvalue="Python.Queuewzh" />
+        <item itemvalue="Python.力扣1512好数对的数目" />
+        <item itemvalue="Python.test (1)" />
+        <item itemvalue="Python.哈希结构实现" />
+        <item itemvalue="Python.插入排序" />
         <item itemvalue="Python.test" />
-        <item itemvalue="Python.Queuewzh" />
       </list>
     </recent_temporary>
   </component>
@@ -202,6 +331,18 @@
       <updated>1583332236304</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
     <state x="2918" y="278" key="#Inspections" timestamp="1595757412744">
@@ -220,42 +361,50 @@
       <screen x="2622" y="0" width="1986" height="1152" />
     </state>
     <state x="2956" y="313" key="#wzh-demo/124.0.1156.800/2622.0.1986.1152@2622.0.1986.1152" timestamp="1595757277833" />
-    <state width="1561" height="206" key="GridCell.Tab.0.bottom" timestamp="1598124352115">
-      <screen x="124" y="0" width="1583" height="1067" />
+    <state width="1001" height="301" key="GridCell.Tab.0.bottom" timestamp="1598802499713">
+      <screen x="0" y="0" width="2048" height="1090" />
     </state>
+    <state width="1073" height="207" key="GridCell.Tab.0.bottom/0.0.1707.1036@0.0.1707.1036" timestamp="1598629405883" />
+    <state width="1001" height="301" key="GridCell.Tab.0.bottom/0.0.2048.1090@0.0.2048.1090" timestamp="1598802499713" />
     <state width="1136" height="142" key="GridCell.Tab.0.bottom/124.0.1156.800/2622.0.1986.1152@124.0.1156.800" timestamp="1596557590188" />
-    <state width="1561" height="206" key="GridCell.Tab.0.bottom/124.0.1583.1067@124.0.1583.1067" timestamp="1598124352115" />
-    <state width="1561" height="206" key="GridCell.Tab.0.center" timestamp="1598124352115">
-      <screen x="124" y="0" width="1583" height="1067" />
+    <state width="1561" height="207" key="GridCell.Tab.0.bottom/124.0.1583.1067@124.0.1583.1067" timestamp="1598621864770" />
+    <state width="1001" height="301" key="GridCell.Tab.0.center" timestamp="1598802499712">
+      <screen x="0" y="0" width="2048" height="1090" />
     </state>
+    <state width="1073" height="207" key="GridCell.Tab.0.center/0.0.1707.1036@0.0.1707.1036" timestamp="1598629405883" />
+    <state width="1001" height="301" key="GridCell.Tab.0.center/0.0.2048.1090@0.0.2048.1090" timestamp="1598802499712" />
     <state width="1136" height="142" key="GridCell.Tab.0.center/124.0.1156.800/2622.0.1986.1152@124.0.1156.800" timestamp="1596557590188" />
-    <state width="1561" height="206" key="GridCell.Tab.0.center/124.0.1583.1067@124.0.1583.1067" timestamp="1598124352115" />
-    <state width="1561" height="206" key="GridCell.Tab.0.left" timestamp="1598124352115">
-      <screen x="124" y="0" width="1583" height="1067" />
+    <state width="1561" height="207" key="GridCell.Tab.0.center/124.0.1583.1067@124.0.1583.1067" timestamp="1598621864770" />
+    <state width="1001" height="301" key="GridCell.Tab.0.left" timestamp="1598802499712">
+      <screen x="0" y="0" width="2048" height="1090" />
     </state>
+    <state width="1073" height="207" key="GridCell.Tab.0.left/0.0.1707.1036@0.0.1707.1036" timestamp="1598629405883" />
+    <state width="1001" height="301" key="GridCell.Tab.0.left/0.0.2048.1090@0.0.2048.1090" timestamp="1598802499712" />
     <state width="1136" height="142" key="GridCell.Tab.0.left/124.0.1156.800/2622.0.1986.1152@124.0.1156.800" timestamp="1596557590188" />
-    <state width="1561" height="206" key="GridCell.Tab.0.left/124.0.1583.1067@124.0.1583.1067" timestamp="1598124352115" />
-    <state width="1561" height="206" key="GridCell.Tab.0.right" timestamp="1598124352115">
-      <screen x="124" y="0" width="1583" height="1067" />
+    <state width="1561" height="207" key="GridCell.Tab.0.left/124.0.1583.1067@124.0.1583.1067" timestamp="1598621864769" />
+    <state width="1001" height="301" key="GridCell.Tab.0.right" timestamp="1598802499712">
+      <screen x="0" y="0" width="2048" height="1090" />
     </state>
+    <state width="1073" height="207" key="GridCell.Tab.0.right/0.0.1707.1036@0.0.1707.1036" timestamp="1598629405883" />
+    <state width="1001" height="301" key="GridCell.Tab.0.right/0.0.2048.1090@0.0.2048.1090" timestamp="1598802499712" />
     <state width="1136" height="142" key="GridCell.Tab.0.right/124.0.1156.800/2622.0.1986.1152@124.0.1156.800" timestamp="1596557590188" />
-    <state width="1561" height="206" key="GridCell.Tab.0.right/124.0.1583.1067@124.0.1583.1067" timestamp="1598124352115" />
-    <state width="1561" height="247" key="GridCell.Tab.1.bottom" timestamp="1598114441722">
+    <state width="1561" height="207" key="GridCell.Tab.0.right/124.0.1583.1067@124.0.1583.1067" timestamp="1598621864770" />
+    <state width="1561" height="247" key="GridCell.Tab.1.bottom" timestamp="1598187210700">
       <screen x="124" y="0" width="1583" height="1067" />
     </state>
-    <state width="1561" height="247" key="GridCell.Tab.1.bottom/124.0.1583.1067@124.0.1583.1067" timestamp="1598114441722" />
-    <state width="1561" height="247" key="GridCell.Tab.1.center" timestamp="1598114441722">
+    <state width="1561" height="247" key="GridCell.Tab.1.bottom/124.0.1583.1067@124.0.1583.1067" timestamp="1598187210700" />
+    <state width="1561" height="247" key="GridCell.Tab.1.center" timestamp="1598187210700">
       <screen x="124" y="0" width="1583" height="1067" />
     </state>
-    <state width="1561" height="247" key="GridCell.Tab.1.center/124.0.1583.1067@124.0.1583.1067" timestamp="1598114441722" />
-    <state width="1561" height="247" key="GridCell.Tab.1.left" timestamp="1598114441722">
+    <state width="1561" height="247" key="GridCell.Tab.1.center/124.0.1583.1067@124.0.1583.1067" timestamp="1598187210700" />
+    <state width="1561" height="247" key="GridCell.Tab.1.left" timestamp="1598187210700">
       <screen x="124" y="0" width="1583" height="1067" />
     </state>
-    <state width="1561" height="247" key="GridCell.Tab.1.left/124.0.1583.1067@124.0.1583.1067" timestamp="1598114441722" />
-    <state width="1561" height="247" key="GridCell.Tab.1.right" timestamp="1598114441722">
+    <state width="1561" height="247" key="GridCell.Tab.1.left/124.0.1583.1067@124.0.1583.1067" timestamp="1598187210700" />
+    <state width="1561" height="247" key="GridCell.Tab.1.right" timestamp="1598187210700">
       <screen x="124" y="0" width="1583" height="1067" />
     </state>
-    <state width="1561" height="247" key="GridCell.Tab.1.right/124.0.1583.1067@124.0.1583.1067" timestamp="1598114441722" />
+    <state width="1561" height="247" key="GridCell.Tab.1.right/124.0.1583.1067@124.0.1583.1067" timestamp="1598187210700" />
     <state x="224" y="91" key="SettingsEditor" timestamp="1595757728986">
       <screen x="124" y="0" width="1156" height="800" />
     </state>
