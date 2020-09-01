@@ -111,95 +111,7 @@ class MyLinkedList:
             previous.next=current.next
 
 
-def getintNode(linka,linkb):
-    tmpset=set()
-    a=linka.head
-    b=linkb.head
-
-    while a:
-        tmpset.add(a)
-        a=a.next
-
-    while b:
-        if b in tmpset:
-            return b
-        b=b.next
-
-def hasCycle(linka):
-    fast=slow=linka.head
-    while fast and fast.next:
-        slow=slow.next
-        fast=fast.next.next
-        if slow is fast:
-            return True
-    return False
-
-def delpost(linka,n):
-    fast=slow=linka.head
-
-    times=0
-    previous=None
-    while times!=n:
-        times+=1
-        fast=fast.next
-
-    while fast!=None:
-        fast=fast.next
-        previous=slow
-        slow=slow.next
-
-    if previous==None:
-        linka.head=slow.next
-    else:
-        previous.next=slow.next
-
-    return linka.head
-
-
-
-
-def test1():
-    nodeAlist=[]
-    nodeBlist=[]
-
-    for i in range(10):
-        nodeAlist.append(Node(i))
-        nodeBlist.append(Node(i+10))
-    linka=MyLinkedList()
-    linkb=MyLinkedList()
-    linka.head=nodeAlist[0]
-    linkb.head=nodeBlist[0]
-
-    for i in range(9):
-        nodeAlist[i].next=nodeAlist[i+1]
-        nodeBlist[i].next=nodeBlist[i+1]
-
-    nodeBlist[5].next=nodeAlist[5]
-    '''
-    linka.showall()
-    print('-------------')
-    linkb.showall()
-    '''
-    insertNode=getintNode(linka,linkb)
-    print(insertNode.key)
-
-def test2():
-    nodeAlist=[]
-    for i in range(10):
-        nodeAlist.append(Node(i))
-    linka=MyLinkedList()
-    linka.head=nodeAlist[0]
-    for i in range(9):
-        nodeAlist[i].next=nodeAlist[i+1]
-    nodeAlist[9].next=nodeAlist[4]
-
-    cyclenode=hasCycle(linka)
-    if cyclenode:
-        print(cyclenode.key)
-
-    #linka.showall()
-
-def test3():
+def getalink():
     la=MyLinkedList()
     la.addAtTail(0)
     la.addAtTail(1)
@@ -207,9 +119,6 @@ def test3():
     la.addAtTail(3)
     la.addAtTail(4)
     la.addAtTail(5)
+    return la
 
-    delpost(la,6)
-    la.showall()
-
-test3()
-
+la=getalink()
