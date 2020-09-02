@@ -121,23 +121,22 @@ def getalink():
     la.addAtTail(5)
     return la
 
+def removeElement(val,la):
+    firstnode=la.head
 
+    node=Node(None)
+    node.next=firstnode
 
-def reverselink(la):
-    tmp=la.head
+    while node and node.next!=None:
+        if node.next.key==val:
+            node.next=node.next.next
+            node=node.next
+        else:
+            node=node.next
 
-    while tmp.next!=None:
-        nextnode=tmp.next
-        tmp.next=nextnode.next
-        nextnode.next=la.head
-        la.head=nextnode
-
-    return la
-
+    return node.next
 
 la=getalink()
-la.showall()
-print('---------')
-lb=reverselink(la)
-lb.showall()
 
+after=removeElement(4,la)
+after.showall()
