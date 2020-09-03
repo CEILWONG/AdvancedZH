@@ -21,7 +21,6 @@
   <component name="ChangeListManager">
     <list default="true" id="48ecc018-7ea7-4110-b68a-d58edc5fcda6" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/链表/链表经典问题/反转链表.py" beforeDir="false" afterPath="$PROJECT_DIR$/链表/链表经典问题/反转链表.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,7 +50,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
-  <component name="RunManager" selected="Python.生成器">
+  <component name="RunManager" selected="Python.涉及哈希集合">
     <configuration name="力扣实现-链表" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="DataStructure" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -107,6 +106,69 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/查找和排序/06插入排序2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="涉及哈希集合" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="DataStructure" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/哈希表/leetbook" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/哈希表/leetbook/涉及哈希集合.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="中缀转后缀" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="DataStructure" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PP2020H2" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PP2020H2/中缀转后缀.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="热土豆问题" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="DataStructure" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PP2020H2" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PP2020H2/热土豆问题.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -283,48 +345,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="中缀转后缀" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="DataStructure" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PP2020H2" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PP2020H2/中缀转后缀.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="热土豆问题" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="DataStructure" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PP2020H2" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PP2020H2/热土豆问题.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="test (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="DataStructure" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -348,8 +368,7 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.生成器" />
-        <item itemvalue="Python.迭代器" />
+        <item itemvalue="Python.涉及哈希集合" />
         <item itemvalue="Python.移除链表元素" />
         <item itemvalue="Python.力扣实现-链表" />
         <item itemvalue="Python.test (1)" />
@@ -398,32 +417,32 @@
       <screen x="2622" y="0" width="1986" height="1152" />
     </state>
     <state x="2956" y="313" key="#wzh-demo/124.0.1156.800/2622.0.1986.1152@2622.0.1986.1152" timestamp="1595757277833" />
-    <state width="999" height="303" key="GridCell.Tab.0.bottom" timestamp="1599050851506">
+    <state width="999" height="302" key="GridCell.Tab.0.bottom" timestamp="1599141579145">
       <screen x="0" y="0" width="2048" height="1090" />
     </state>
     <state width="1073" height="207" key="GridCell.Tab.0.bottom/0.0.1707.1036@0.0.1707.1036" timestamp="1598629405883" />
-    <state width="999" height="303" key="GridCell.Tab.0.bottom/0.0.2048.1090@0.0.2048.1090" timestamp="1599050851506" />
+    <state width="999" height="302" key="GridCell.Tab.0.bottom/0.0.2048.1090@0.0.2048.1090" timestamp="1599141579145" />
     <state width="1136" height="142" key="GridCell.Tab.0.bottom/124.0.1156.800/2622.0.1986.1152@124.0.1156.800" timestamp="1596557590188" />
     <state width="1561" height="207" key="GridCell.Tab.0.bottom/124.0.1583.1067@124.0.1583.1067" timestamp="1598621864770" />
-    <state width="999" height="303" key="GridCell.Tab.0.center" timestamp="1599050851506">
+    <state width="999" height="302" key="GridCell.Tab.0.center" timestamp="1599141579145">
       <screen x="0" y="0" width="2048" height="1090" />
     </state>
     <state width="1073" height="207" key="GridCell.Tab.0.center/0.0.1707.1036@0.0.1707.1036" timestamp="1598629405883" />
-    <state width="999" height="303" key="GridCell.Tab.0.center/0.0.2048.1090@0.0.2048.1090" timestamp="1599050851506" />
+    <state width="999" height="302" key="GridCell.Tab.0.center/0.0.2048.1090@0.0.2048.1090" timestamp="1599141579145" />
     <state width="1136" height="142" key="GridCell.Tab.0.center/124.0.1156.800/2622.0.1986.1152@124.0.1156.800" timestamp="1596557590188" />
     <state width="1561" height="207" key="GridCell.Tab.0.center/124.0.1583.1067@124.0.1583.1067" timestamp="1598621864770" />
-    <state width="999" height="303" key="GridCell.Tab.0.left" timestamp="1599050851506">
+    <state width="999" height="302" key="GridCell.Tab.0.left" timestamp="1599141579144">
       <screen x="0" y="0" width="2048" height="1090" />
     </state>
     <state width="1073" height="207" key="GridCell.Tab.0.left/0.0.1707.1036@0.0.1707.1036" timestamp="1598629405883" />
-    <state width="999" height="303" key="GridCell.Tab.0.left/0.0.2048.1090@0.0.2048.1090" timestamp="1599050851506" />
+    <state width="999" height="302" key="GridCell.Tab.0.left/0.0.2048.1090@0.0.2048.1090" timestamp="1599141579144" />
     <state width="1136" height="142" key="GridCell.Tab.0.left/124.0.1156.800/2622.0.1986.1152@124.0.1156.800" timestamp="1596557590188" />
     <state width="1561" height="207" key="GridCell.Tab.0.left/124.0.1583.1067@124.0.1583.1067" timestamp="1598621864769" />
-    <state width="999" height="303" key="GridCell.Tab.0.right" timestamp="1599050851506">
+    <state width="999" height="302" key="GridCell.Tab.0.right" timestamp="1599141579145">
       <screen x="0" y="0" width="2048" height="1090" />
     </state>
     <state width="1073" height="207" key="GridCell.Tab.0.right/0.0.1707.1036@0.0.1707.1036" timestamp="1598629405883" />
-    <state width="999" height="303" key="GridCell.Tab.0.right/0.0.2048.1090@0.0.2048.1090" timestamp="1599050851506" />
+    <state width="999" height="302" key="GridCell.Tab.0.right/0.0.2048.1090@0.0.2048.1090" timestamp="1599141579145" />
     <state width="1136" height="142" key="GridCell.Tab.0.right/124.0.1156.800/2622.0.1986.1152@124.0.1156.800" timestamp="1596557590188" />
     <state width="1561" height="207" key="GridCell.Tab.0.right/124.0.1583.1067@124.0.1583.1067" timestamp="1598621864770" />
     <state width="2027" height="253" key="GridCell.Tab.1.bottom" timestamp="1598981445504">
@@ -451,6 +470,10 @@
     </state>
     <state x="224" y="91" key="SettingsEditor/124.0.1156.800/2622.0.1986.1152@124.0.1156.800" timestamp="1595757728986" />
     <state x="2793" y="244" key="SettingsEditor/124.0.1156.800/2622.0.1986.1152@2622.0.1986.1152" timestamp="1595757644443" />
+    <state x="1199" y="238" width="672" height="678" key="search.everywhere.popup" timestamp="1599138302136">
+      <screen x="0" y="0" width="2048" height="1090" />
+    </state>
+    <state x="1199" y="238" width="672" height="678" key="search.everywhere.popup/0.0.2048.1090@0.0.2048.1090" timestamp="1599138302136" />
   </component>
   <component name="XDebuggerManager">
     <watches-manager>
