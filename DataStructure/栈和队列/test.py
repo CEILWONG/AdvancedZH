@@ -1,8 +1,9 @@
 
 
+a=[1,2]
+b=[]
+c=[10]
 
-t=None
+d= b if b else a
 
-while not t:
-    for i in range(6):
-        print(i)
+print(d)

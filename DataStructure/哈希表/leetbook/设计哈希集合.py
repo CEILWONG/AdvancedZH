@@ -14,27 +14,30 @@ class myhashset:
         self.size=size
         self.alist=[None]*self.size
 
-    @classmethod
-    def hashfunc(key):
-        return hashfunc%self.size
+
+    def hashfunc(self,key):
+        return key%self.size
 
     def add(self,key):
         if self.contains(key):
             return NULL
         toAddNode=Node(key)
-        slot=hashfunc(key)
+        slot=self.hashfunc(key)
 
         if self.alist[slot]==None:
-            self.alist[slot]=tmp
+            self.alist[slot]=toAddNode
         else:
             toAddNode.next=self.alist[slot].next
             self.alist[slot].next=toAddNode
 
     def remove(self,key):
 
-        slot=hashfunc(key)
+        slot=self.hashfunc(key)
         if self.alist[slot]==None:
             return  False
+        elif self.alist[slot].key==key:
+            tmp=self.alist[slot]
+            self.alist[slot]=tmp.next
         else:
             head=Node(None)
             head.next=self.alist[slot]
@@ -47,7 +50,7 @@ class myhashset:
                 return False
 
     def contains(self,key):
-        slot=hashfunc(key)
+        slot=self.hashfunc(key)
         if self.alist[slot]==None:
             return  False
         else:
@@ -61,9 +64,16 @@ class myhashset:
             else:
                 return False
 
+
+
 wzh=myhashset(10)
 wzh.add(3)
 wzh.add(2)
 wzh.add(12)
+
+
+print(wzh.alist[2].key)
+print(wzh.alist[2].next.key)
+wzh.remove(2)
 
 print(wzh.contains(2))
