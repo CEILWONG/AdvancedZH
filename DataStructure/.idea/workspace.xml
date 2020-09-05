@@ -21,8 +21,8 @@
   <component name="ChangeListManager">
     <list default="true" id="48ecc018-7ea7-4110-b68a-d58edc5fcda6" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/哈希表/leetbook/涉及哈希集合.py" beforeDir="false" afterPath="$PROJECT_DIR$/哈希表/leetbook/设计哈希集合.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/栈和队列/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/栈和队列/test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/树/gitbook/从中序和后续遍历序列构造二叉树树.py" beforeDir="false" afterPath="$PROJECT_DIR$/树/gitbook/从中序和后续遍历序列构造二叉树树.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,28 +52,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
-  <component name="RunManager" selected="Python.test (1)">
-    <configuration name="力扣实现-链表" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="DataStructure" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/链表" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/链表/力扣实现-链表.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.哈希表字典相关操作">
     <configuration name="移除链表元素" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="DataStructure" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -108,6 +87,69 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/查找和排序/06插入排序2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="从中序和后续遍历序列构造二叉树树" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="DataStructure" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/树/gitbook" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/树/gitbook/从中序和后续遍历序列构造二叉树树.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="哈希集合的操作" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="DataStructure" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/哈希表/leetbook" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/哈希表/leetbook/哈希集合的操作.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="哈希表字典相关操作" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="DataStructure" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/哈希表/leetbook" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/哈希表/leetbook/哈希表字典相关操作.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -391,9 +433,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.哈希表字典相关操作" />
         <item itemvalue="Python.test (1)" />
+        <item itemvalue="Python.哈希集合的操作" />
+        <item itemvalue="Python.从中序和后续遍历序列构造二叉树树" />
         <item itemvalue="Python.移除链表元素" />
-        <item itemvalue="Python.力扣实现-链表" />
       </list>
     </recent_temporary>
   </component>
@@ -443,32 +487,32 @@
       <screen x="0" y="0" width="2048" height="1090" />
     </state>
     <state x="804" y="287" key="FileChooserDialogImpl/0.0.2048.1090@0.0.2048.1090" timestamp="1599149012848" />
-    <state width="1002" height="302" key="GridCell.Tab.0.bottom" timestamp="1599285232138">
+    <state width="999" height="302" key="GridCell.Tab.0.bottom" timestamp="1599318361725">
       <screen x="0" y="0" width="2048" height="1090" />
     </state>
     <state width="1073" height="207" key="GridCell.Tab.0.bottom/0.0.1707.1036@0.0.1707.1036" timestamp="1598629405883" />
-    <state width="1002" height="302" key="GridCell.Tab.0.bottom/0.0.2048.1090@0.0.2048.1090" timestamp="1599285232138" />
+    <state width="999" height="302" key="GridCell.Tab.0.bottom/0.0.2048.1090@0.0.2048.1090" timestamp="1599318361725" />
     <state width="1136" height="142" key="GridCell.Tab.0.bottom/124.0.1156.800/2622.0.1986.1152@124.0.1156.800" timestamp="1596557590188" />
     <state width="1561" height="207" key="GridCell.Tab.0.bottom/124.0.1583.1067@124.0.1583.1067" timestamp="1598621864770" />
-    <state width="1002" height="302" key="GridCell.Tab.0.center" timestamp="1599285232138">
+    <state width="999" height="302" key="GridCell.Tab.0.center" timestamp="1599318361723">
       <screen x="0" y="0" width="2048" height="1090" />
     </state>
     <state width="1073" height="207" key="GridCell.Tab.0.center/0.0.1707.1036@0.0.1707.1036" timestamp="1598629405883" />
-    <state width="1002" height="302" key="GridCell.Tab.0.center/0.0.2048.1090@0.0.2048.1090" timestamp="1599285232138" />
+    <state width="999" height="302" key="GridCell.Tab.0.center/0.0.2048.1090@0.0.2048.1090" timestamp="1599318361723" />
     <state width="1136" height="142" key="GridCell.Tab.0.center/124.0.1156.800/2622.0.1986.1152@124.0.1156.800" timestamp="1596557590188" />
     <state width="1561" height="207" key="GridCell.Tab.0.center/124.0.1583.1067@124.0.1583.1067" timestamp="1598621864770" />
-    <state width="1002" height="302" key="GridCell.Tab.0.left" timestamp="1599285232138">
+    <state width="999" height="302" key="GridCell.Tab.0.left" timestamp="1599318361722">
       <screen x="0" y="0" width="2048" height="1090" />
     </state>
     <state width="1073" height="207" key="GridCell.Tab.0.left/0.0.1707.1036@0.0.1707.1036" timestamp="1598629405883" />
-    <state width="1002" height="302" key="GridCell.Tab.0.left/0.0.2048.1090@0.0.2048.1090" timestamp="1599285232138" />
+    <state width="999" height="302" key="GridCell.Tab.0.left/0.0.2048.1090@0.0.2048.1090" timestamp="1599318361722" />
     <state width="1136" height="142" key="GridCell.Tab.0.left/124.0.1156.800/2622.0.1986.1152@124.0.1156.800" timestamp="1596557590188" />
     <state width="1561" height="207" key="GridCell.Tab.0.left/124.0.1583.1067@124.0.1583.1067" timestamp="1598621864769" />
-    <state width="1002" height="302" key="GridCell.Tab.0.right" timestamp="1599285232138">
+    <state width="999" height="302" key="GridCell.Tab.0.right" timestamp="1599318361724">
       <screen x="0" y="0" width="2048" height="1090" />
     </state>
     <state width="1073" height="207" key="GridCell.Tab.0.right/0.0.1707.1036@0.0.1707.1036" timestamp="1598629405883" />
-    <state width="1002" height="302" key="GridCell.Tab.0.right/0.0.2048.1090@0.0.2048.1090" timestamp="1599285232138" />
+    <state width="999" height="302" key="GridCell.Tab.0.right/0.0.2048.1090@0.0.2048.1090" timestamp="1599318361724" />
     <state width="1136" height="142" key="GridCell.Tab.0.right/124.0.1156.800/2622.0.1986.1152@124.0.1156.800" timestamp="1596557590188" />
     <state width="1561" height="207" key="GridCell.Tab.0.right/124.0.1583.1067@124.0.1583.1067" timestamp="1598621864770" />
     <state width="1002" height="254" key="GridCell.Tab.1.bottom" timestamp="1599285228400">
