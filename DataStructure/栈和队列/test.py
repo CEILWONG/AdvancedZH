@@ -1,5 +1,8 @@
 
 
-a={1,2,3,4,5}
-b={4,5,6,7,8}
-print(a&b)
+a=[1,2,3]
+hashset=set(a)
+
+hashset.add(4)
+hashset.remove(2)
+print(hashset)
