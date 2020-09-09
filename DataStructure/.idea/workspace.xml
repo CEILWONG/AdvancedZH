@@ -21,8 +21,6 @@
   <component name="ChangeListManager">
     <list default="true" id="48ecc018-7ea7-4110-b68a-d58edc5fcda6" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/test.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/数组和字符串/旋转矩阵.py" beforeDir="false" afterPath="$PROJECT_DIR$/数组和字符串/旋转矩阵.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
